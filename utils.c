@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/29 04:14:38 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:53:57 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:52 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 #define MSG \
 "\x1b[33mCan you even have a negative amount of people or time?\x1b[0m\n"
