@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/28 23:13:09 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:50:19 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:45 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 static void	routine(t_philo *philo)
 {
