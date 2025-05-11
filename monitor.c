@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/28 23:45:56 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:49:09 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:42 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 static void	set_ded(t_stol *stol, int state)
 {
