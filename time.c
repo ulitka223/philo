@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/28 23:10:54 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:52:15 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:49 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 long	get_time(void)
 {
