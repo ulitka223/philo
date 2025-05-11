@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/29 04:07:44 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:08:45 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:39 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 void	*cleanup(t_stol *stol)
 {
