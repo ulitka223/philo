@@ -6,11 +6,12 @@
 /*   By: dekravts <dekravts@student.42prague.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/29 04:21:14 by dekravts          #+#    #+#             */
-/*   Updated: 2025/04/29 06:09:25 by dekravts         ###   ########.fr       */
+/*   Updated: 2025/05/11 21:32:36 by dekravts         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
+
 
 static pthread_mutex_t	*init_forks(t_stol *stol)
 {
